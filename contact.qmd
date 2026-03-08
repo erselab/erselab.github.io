@@ -1,0 +1,11 @@
+---
+title: "Contact"
+---
+
+We welcome inquiries from collaborators, prospective students, and members of the public interested in our work.
+
+- **Email:** [sean.m.r.crowell@university.edu](mailto:sean.m.r.crowell@university.edu)  
+- **GitHub:** [seanmrcrowell](https://github.com/seanmrcrowell)  
+- **Location:** Rochester, New York, United States
+
+If you'd like to discuss potential collaborations or learn more about our research, please get in touch via email.

@@ -1,0 +1,9 @@
+---
+title: "Dr. Sean M. R. Crowell"
+title-block-banner: assets/img/hero.jpg
+body-class: home
+page-layout: full
+---
+<em>However, I continue to try and I continue, indefatigably, to reach out.  Theres no way I can single-handedly save the world or, perhaps, even make a perceptible difference - but how ashamed I would be to let a day pass without making one more effort.</em> - Isaac Asimov
+
+![](assets/img/head-shot.png){fig-alt="It's me!" width=25%}

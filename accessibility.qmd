@@ -1,0 +1,7 @@
+---
+title: "Accessibility"
+---
+
+We strive to make this website accessible to all users. If you encounter any issues accessing content, please contact us so we can address them.
+
+*This page is a placeholder; update it with specific accessibility policies and resources.*

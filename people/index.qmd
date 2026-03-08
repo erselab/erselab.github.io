@@ -1,0 +1,28 @@
+---
+title: "Our Team"
+---
+
+We are a multidisciplinary group of scientists, students and engineers working at the intersection of remote sensing, climate science and data science. Learn more about each member by visiting their profile.
+
+## Current members
+
+<div class="card-grid">
+
+<div class="person-card">
+  <img src="../assets/img/sean-crowell.jpg" alt="Dr. Sean M. R. Crowell">
+  <h3><a href="members/sean-crowell/index.qmd">Dr. Sean M. R. Crowell</a></h3>
+  <p class="muted">Principal Investigator · Remote sensing, inverse modelling</p>
+  <p>
+    <span class="badge">Remote sensing</span>
+    <span class="badge">Methane</span>
+    <span class="badge">Carbon inversion</span>
+  </p>
+</div>
+
+<!-- Add additional person-card blocks here for other lab members -->
+
+</div>
+
+## Alumni
+
+*Add information about former members here.*
