@@ -1,5 +1,5 @@
 ---
-title: "Dr. Sean M. R. Crowell"
+title: "Environmental Remote Sensing Laboratory at the University of Rochester"
 title-block-banner: assets/img/hero.jpg
 body-class: home
 page-layout: full

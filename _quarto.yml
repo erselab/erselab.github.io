@@ -4,7 +4,7 @@ project:
 
 website:
   # Give the site a clear, professional title that reflects the lab's work
-  title: "Environmental Remote Sensing Laboratory"
+  title: "ERSeLab"
   site-url: "https://erselab.github.io"
   # A concise description shown in metadata and social previews
   description: "Advancing atmospheric remote sensing and carbon-cycle science through satellite data, inverse modelling and open tools."
@@ -24,13 +24,13 @@ website:
     right:
       # Replace GitHub placeholder with the user’s actual GitHub profile when known
       - icon: github
-        href: https://github.com/seanmrcrowell
+        href: https://github.com/erselab
         aria-label: GitHub
   # enable search box in the header
   search: true
   # simple footer with copyright and accessibility link
   page-footer:
-    left: "© {year} Crowell Lab"
+    left: "© {year} Environmental Remote Sensing Lab"
     right:
       - text: "Accessibility"
         href: accessibility.qmd
