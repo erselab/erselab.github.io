@@ -35,14 +35,14 @@
 }
 
 .person-card, .project-card {
-  border: 1px solid rgba(0,0,0,0.08);
+  border: 1px solid rgba(115, 114, 114, 0.08);
   border-radius: 14px;
   padding: 1rem;
-  background: white;
+  background: rgba(109, 118, 148, 0.486);
 }
 
 .person-card img, .project-card img {
-  width: 100%;
+  width: 200px;
   object-fit: cover;
   border-radius: 12px;
   margin-bottom: 0.75rem;

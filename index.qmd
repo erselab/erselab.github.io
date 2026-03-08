@@ -23,7 +23,7 @@ Our work spans the full pipeline—from satellite radiances to geophysical produ
   </div>
 
   <div class="project-card">
-    <img src="assets/img/projects/carbon-remote-sensing.jpg" alt="Carbon-cycle inversion">
+    <img src="assets/img/projects/carbon-remote-sensing.png" alt="Carbon-cycle inversion">
     <h3><a href="research/projects/carbon-inversion/">Carbon Inversion</a></h3>
     <p class="muted">Constraining carbon fluxes using atmospheric observations and inversion methods.</p>
     <p>
@@ -34,7 +34,7 @@ Our work spans the full pipeline—from satellite radiances to geophysical produ
   </div>
 
   <div class="project-card">
-    <img src="assets/img/projects/ml-retrieval.jpg" alt="Retrieval algorithms">
+    <img src="assets/img/projects/ml-retrieval.png" alt="Retrieval algorithms">
     <h3><a href="research/">Retrieval Algorithms</a></h3>
     <p class="muted">Physics-informed and ML retrieval methods with transparent QA/QC and uncertainty.</p>
     <p>
