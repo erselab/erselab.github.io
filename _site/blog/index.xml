@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Environmental Remote Sensing Laboratory</title>
+<title>ERSeLab</title>
 <link>https://erselab.github.io/blog/</link>
 <atom:link href="https://erselab.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Advancing atmospheric remote sensing and carbon-cycle science through satellite data, inverse modelling and open tools.</description>

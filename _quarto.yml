@@ -3,14 +3,15 @@ project:
   output-dir: _site
 
 website:
-  # Give the site a clear, professional title that reflects the lab's work
-  title: "ERSeLab"
+  title: "ERSeLab"   # can still exist for metadata/browser title
   site-url: "https://erselab.github.io"
   # A concise description shown in metadata and social previews
   description: "Advancing atmospheric remote sensing and carbon-cycle science through satellite data, inverse modelling and open tools."
+
   navbar:
+    logo: assets/img/ersla_logo.png
+    logo-alt: "ERSELab"
     left:
-      # Keep navigation intuitive: home, research, team, publications and contact
       - href: index.qmd
         text: Home
       - href: research/index.qmd
