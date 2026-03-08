@@ -4,8 +4,8 @@ project:
 
 website:
   # Give the site a clear, professional title that reflects the lab's work
-  title: "Crowell Lab – Remote Sensing & Climate Research"
-  site-url: "https://seancrowell.github.io"
+  title: "Environmental Remote Sensing Laboratory"
+  site-url: "https://erselab.github.io"
   # A concise description shown in metadata and social previews
   description: "Advancing atmospheric remote sensing and carbon-cycle science through satellite data, inverse modelling and open tools."
   navbar:
