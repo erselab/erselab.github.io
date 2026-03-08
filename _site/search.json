@@ -37,9 +37,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Environmental Remote Sensing Laboratory at the University of Rochester",
+    "title": "Environmental Remote Sensing Lab at the University of Rochester",
     "section": "",
-    "text": "However, I continue to try and I continue, indefatigably, to reach out. Theres no way I can single-handedly save the world or, perhaps, even make a perceptible difference - but how ashamed I would be to let a day pass without making one more effort. - Isaac Asimov"
+    "text": "Welcome to ERSeLab (Environmental Remote Sensing Lab). We develop and apply Earth-observing approaches to understand the carbon cycle and improve society’s ability to measure, attribute, and reduce greenhouse-gas emissions.\nOur work spans the full pipeline—from satellite radiances to geophysical products to scientific inference. We combine atmospheric physics, machine learning, and uncertainty quantification to produce datasets and tools that are both scientifically rigorous and operationally useful.\n\n\n  \n    \n    Methane Plumes\n    Detecting and characterizing methane point sources from satellite imagery.\n    \n      CH₄\n      Detection\n      Attribution\n    \n  \n\n  \n    \n    Carbon Inversion\n    Constraining carbon fluxes using atmospheric observations and inversion methods.\n    \n      CO₂\n      Inversions\n      Carbon cycle\n    \n  \n\n  \n    \n    Retrieval Algorithms\n    Physics-informed and ML retrieval methods with transparent QA/QC and uncertainty.\n    \n      Retrievals\n      ML\n      Uncertainty\n    \n  \n\n\n\nWhat we work on\nRemote Sensing\nWe improve the retrieval and validation of environmental variables like atmospheric CO₂, CH₄, and related trace gases and surface characteristics from satellite and airborne instruments, with a focus on accuracy, bias mitigation, and transparent uncertainty.\nCarbon-cycle variability and feedbacks\nWe use atmospheric observations and models to study how carbon sources and sinks change across seasons and years—especially in regions where climate variability can strongly modulate fluxes.\nInference and attribution\nWe connect observations to processes and sources using inversion and data-assimilation approaches, aiming to turn measurements into actionable insight for science and climate mitigation.\n\n\nWhy it matters\nReliable greenhouse-gas information is foundational for understanding climate feedbacks, evaluating mitigation strategies, and building trust in emissions estimates. ERSeLab aims to make Earth observations more interpretable, more reproducible, and more impactful.\n\n\nExplore ERSeLab\n\nResearch — projects, methods, and focus areas\n\nTeam — current members and collaborators\n\nPublications — papers, preprints, and releases\n\nContact — collaboration and prospective students"
   },
   {
     "objectID": "contact.html",
@@ -215,5 +215,26 @@
     "title": "Dr. Sean M. R. Crowell",
     "section": "Links",
     "text": "Links\n\nGoogle Scholar\n\nORCID\n\nGitHub"
+  },
+  {
+    "objectID": "index.html#what-we-work-on",
+    "href": "index.html#what-we-work-on",
+    "title": "Environmental Remote Sensing Lab at the University of Rochester",
+    "section": "What we work on",
+    "text": "What we work on\nGreenhouse-gas remote sensing\nWe improve the retrieval and validation of atmospheric CO₂, CH₄, and related trace gases from satellite and airborne instruments, with a focus on accuracy, bias mitigation, and transparent uncertainty.\nCarbon-cycle variability and feedbacks\nWe use atmospheric observations and models to study how carbon sources and sinks change across seasons and years—especially in regions where climate variability can strongly modulate fluxes.\nInference and attribution\nWe connect observations to processes and sources using inversion and data-assimilation approaches, aiming to turn measurements into actionable insight for science and climate mitigation."
+  },
+  {
+    "objectID": "index.html#why-it-matters",
+    "href": "index.html#why-it-matters",
+    "title": "Environmental Remote Sensing Lab at the University of Rochester",
+    "section": "Why it matters",
+    "text": "Why it matters\nReliable greenhouse-gas information is foundational for understanding climate feedbacks, evaluating mitigation strategies, and building trust in emissions estimates. ERSeLab aims to make Earth observations more interpretable, more reproducible, and more impactful."
+  },
+  {
+    "objectID": "index.html#explore-erselab",
+    "href": "index.html#explore-erselab",
+    "title": "Environmental Remote Sensing Lab at the University of Rochester",
+    "section": "Explore ERSeLab",
+    "text": "Explore ERSeLab\n\nResearch — projects, methods, and focus areas\n\nTeam — current members and collaborators\n\nPublications — papers, preprints, and releases\n\nContact — collaboration and prospective students"
   }
 ]

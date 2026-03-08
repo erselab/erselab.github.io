@@ -1,9 +1,68 @@
 ---
-title: "Environmental Remote Sensing Laboratory at the University of Rochester"
-title-block-banner: assets/img/hero.jpg
+title: "Environmental Remote Sensing Lab at the University of Rochester"
 body-class: home
 page-layout: full
 ---
-<em>However, I continue to try and I continue, indefatigably, to reach out.  Theres no way I can single-handedly save the world or, perhaps, even make a perceptible difference - but how ashamed I would be to let a day pass without making one more effort.</em> - Isaac Asimov
 
-![](assets/img/head-shot.png){fig-alt="It's me!" width=25%}
+Welcome to **ERSeLab (Environmental Remote Sensing Lab)**. We develop and apply Earth-observing approaches to understand the **carbon cycle** and improve society’s ability to **measure, attribute, and reduce greenhouse-gas emissions**.
+
+Our work spans the full pipeline—from satellite radiances to geophysical products to scientific inference. We combine **atmospheric physics**, **machine learning**, and **uncertainty quantification** to produce datasets and tools that are both scientifically rigorous and operationally useful.
+
+```{=html}
+<div class="card-grid">
+
+  <div class="project-card">
+    <img src="assets/img/projects/methane-plumes.jpg" alt="Methane plume detection">
+    <h3><a href="research/projects/methane-plumes/">Methane Plumes</a></h3>
+    <p class="muted">Detecting and characterizing methane point sources from satellite imagery.</p>
+    <p>
+      <span class="badge">CH₄</span>
+      <span class="badge">Detection</span>
+      <span class="badge">Attribution</span>
+    </p>
+  </div>
+
+  <div class="project-card">
+    <img src="assets/img/projects/carbon-remote-sensing.jpg" alt="Carbon-cycle inversion">
+    <h3><a href="research/projects/carbon-inversion/">Carbon Inversion</a></h3>
+    <p class="muted">Constraining carbon fluxes using atmospheric observations and inversion methods.</p>
+    <p>
+      <span class="badge">CO₂</span>
+      <span class="badge">Inversions</span>
+      <span class="badge">Carbon cycle</span>
+    </p>
+  </div>
+
+  <div class="project-card">
+    <img src="assets/img/projects/ml-retrieval.jpg" alt="Retrieval algorithms">
+    <h3><a href="research/">Retrieval Algorithms</a></h3>
+    <p class="muted">Physics-informed and ML retrieval methods with transparent QA/QC and uncertainty.</p>
+    <p>
+      <span class="badge">Retrievals</span>
+      <span class="badge">ML</span>
+      <span class="badge">Uncertainty</span>
+    </p>
+  </div>
+
+</div>
+```
+
+# What we work on
+
+**Remote Sensing**  
+We improve the retrieval and validation of environmental variables like atmospheric **CO₂, CH₄, and related trace gases** and surface characteristics from satellite and airborne instruments, with a focus on accuracy, bias mitigation, and transparent uncertainty.
+
+**Carbon-cycle variability and feedbacks**  
+We use atmospheric observations and models to study how carbon sources and sinks change across seasons and years—especially in regions where climate variability can strongly modulate fluxes.
+
+**Inference and attribution**  
+We connect observations to processes and sources using inversion and data-assimilation approaches, aiming to turn measurements into actionable insight for science and climate mitigation.
+
+# Why it matters
+Reliable greenhouse-gas information is foundational for understanding climate feedbacks, evaluating mitigation strategies, and building trust in emissions estimates. ERSeLab aims to make Earth observations more interpretable, more reproducible, and more impactful.
+
+# Explore ERSeLab
+- **[Research](research/index.qmd)** — projects, methods, and focus areas  
+- **[Team](people/index.qmd)** — current members and collaborators  
+- **[Publications](publications.qmd)** — papers, preprints, and releases  
+- **[Contact](contact.qmd)** — collaboration and prospective students
