@@ -1,7 +1,6 @@
 ---
 title: "Dr. Sean M. R. Crowell"
 subtitle: "Principal Investigator"
-image: ../../../assets/img/sean-crowell.jpg
 ---
 
 ## Biography

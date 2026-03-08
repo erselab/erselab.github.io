@@ -1,0 +1,22 @@
+/* Navbar logo sizing */
+
+/* Hide the site title text next to the navbar logo */
+.navbar-brand .navbar-title {
+  display: none !important;
+}
+
+/* Force Quarto/Bootstrap navbar logo sizing */
+.navbar .navbar-brand img,
+.navbar .navbar-brand .navbar-logo {
+  height: 80px !important;   /* bump this up */
+  max-height: 80px !important;
+  width: auto !important;
+}
+
+/* Make sure the brand container isn’t limiting it */
+.navbar .navbar-brand {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  display: flex;
+  align-items: center;
+}
