@@ -109,7 +109,7 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Our research combines satellite remote sensing, atmospheric modelling and data assimilation to study greenhouse gases and climate feedbacks. We develop open methods that allow scientists and policymakers to monitor emissions and evaluate mitigation strategies."
+    "text": "ERSeLab develops remote-sensing methods and scientific analyses that turn Earth observations into reliable information about greenhouse gases (CO₂, CH₄, and related species) and the carbon cycle. We work across the full pathway—from instrument measurements to retrieval algorithms to interpretation—so our results are both scientifically rigorous and usable for climate research and mitigation."
   },
   {
     "objectID": "research/index.html#focus-areas",
@@ -163,30 +163,30 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Journal Articles",
     "section": "",
-    "text": "Below is a selection of publications authored by members of the Crowell Lab. For a comprehensive list, please visit our Google Scholar profile."
+    "text": "Doughty, R., Wimberly, M. C., Wanyama, D., Peiro, H., Parazoo, N., Crowell, S., & Cho, M. A. (2025). Seasonality and synchrony of photosynthesis in African forests inferred from spaceborne chlorophyll fluorescence and vegetation indices. Biogeosciences, 22(8), 1985–2004. https://doi.org/10.5194/bg-22-1985-2025\nJensen, M. P., Flynn, J. H., Gonzalez-Cruz, J. E., Judd, L. M., Kollias, P., Kuang, C., McFarquhar, G. M., Powers, H., Ramamurthy, P., Sullivan, J., et al. (2025). Studying aerosol, clouds, and air quality in the coastal urban environment of southeastern Texas. Bulletin of the American Meteorological Society. https://doi.org/10.1175/BAMS-D-23-0102.1\nKeely, W. R., Lamminpää, O., Mauceri, S., Crowell, S. M. R., O’Dell, C. W., & McGarragh, G. R. (2025). Conditional diffusion-based retrieval of atmospheric CO₂ from Earth observing spectroscopy. arXiv preprint arXiv:2504.17074. https://doi.org/10.48550/arXiv.2504.17074\nKeely, W., Mauceri, S., Nelson, R., Laughner, J., O’Dell, C. W., Massie, S. T., Baker, D. F., Kiel, M., Lamminpää, O., Hobbs, J. M., et al. (2025). Uncertainty-aware machine learning bias correction and filtering for OCO-2: Part 2. Earth and Space Science, 12(11), e2025EA004329. https://doi.org/10.1029/2025EA004329\nMauceri, S., Keely, W., Laughner, J., O’Dell, C. W., Massie, S., Nelson, R., Baker, D., Kiel, M., Lamminpää, O., Hobbs, J., et al. (2025). Uncertainty-aware machine learning bias correction and filtering for OCO-2: Part 1. Earth and Space Science, 12(7), e2025EA004328. https://doi.org/10.1029/2025EA004328\nSomkuti, P., McGarragh, G., O’Dell, C., Di Noia, A., Vogel, L., Crowell, S., Ott, L. E., & Bösch, H. (2025). Surface reflectance biases in XCH4 retrievals from the 2.3 μm band are enhanced in the presence of aerosols. Atmospheric Measurement Techniques, 18(18), 4647–4663. https://doi.org/10.5194/amt-18-4647-2025\nWang, Q., Crowell, S., & Klein, P. (2025). Noah-MP parameter optimization at Southern Great Plains using Bayesian optimization. Journal of Geophysical Research: Atmospheres, 130(13), e2024JD041793. https://doi.org/10.1029/2024JD041793"
   },
   {
     "objectID": "publications.html#section",
     "href": "publications.html#section",
-    "title": "Publications",
-    "section": "2026",
-    "text": "2026\n\nPlaceholder for 2026 publication. Replace this section with actual citations (e.g., using the APA format)."
+    "title": "Journal Articles",
+    "section": "",
+    "text": "Doughty, R., Wimberly, M. C., Wanyama, D., Peiro, H., Parazoo, N., Crowell, S., & Cho, M. A. (2025). Seasonality and synchrony of photosynthesis in African forests inferred from spaceborne chlorophyll fluorescence and vegetation indices. Biogeosciences, 22(8), 1985–2004. https://doi.org/10.5194/bg-22-1985-2025\nJensen, M. P., Flynn, J. H., Gonzalez-Cruz, J. E., Judd, L. M., Kollias, P., Kuang, C., McFarquhar, G. M., Powers, H., Ramamurthy, P., Sullivan, J., et al. (2025). Studying aerosol, clouds, and air quality in the coastal urban environment of southeastern Texas. Bulletin of the American Meteorological Society. https://doi.org/10.1175/BAMS-D-23-0102.1\nKeely, W. R., Lamminpää, O., Mauceri, S., Crowell, S. M. R., O’Dell, C. W., & McGarragh, G. R. (2025). Conditional diffusion-based retrieval of atmospheric CO₂ from Earth observing spectroscopy. arXiv preprint arXiv:2504.17074. https://doi.org/10.48550/arXiv.2504.17074\nKeely, W., Mauceri, S., Nelson, R., Laughner, J., O’Dell, C. W., Massie, S. T., Baker, D. F., Kiel, M., Lamminpää, O., Hobbs, J. M., et al. (2025). Uncertainty-aware machine learning bias correction and filtering for OCO-2: Part 2. Earth and Space Science, 12(11), e2025EA004329. https://doi.org/10.1029/2025EA004329\nMauceri, S., Keely, W., Laughner, J., O’Dell, C. W., Massie, S., Nelson, R., Baker, D., Kiel, M., Lamminpää, O., Hobbs, J., et al. (2025). Uncertainty-aware machine learning bias correction and filtering for OCO-2: Part 1. Earth and Space Science, 12(7), e2025EA004328. https://doi.org/10.1029/2025EA004328\nSomkuti, P., McGarragh, G., O’Dell, C., Di Noia, A., Vogel, L., Crowell, S., Ott, L. E., & Bösch, H. (2025). Surface reflectance biases in XCH4 retrievals from the 2.3 μm band are enhanced in the presence of aerosols. Atmospheric Measurement Techniques, 18(18), 4647–4663. https://doi.org/10.5194/amt-18-4647-2025\nWang, Q., Crowell, S., & Klein, P. (2025). Noah-MP parameter optimization at Southern Great Plains using Bayesian optimization. Journal of Geophysical Research: Atmospheres, 130(13), e2024JD041793. https://doi.org/10.1029/2024JD041793"
   },
   {
     "objectID": "publications.html#section-1",
     "href": "publications.html#section-1",
-    "title": "Publications",
-    "section": "2025",
-    "text": "2025\n\nPlaceholder for 2025 publication. Replace this section with actual citations."
+    "title": "Journal Articles",
+    "section": "2024",
+    "text": "2024\nMcGarragh, G. R., O’Dell, C. W., Crowell, S. M. R., Somkuti, P., Burgh, E. B., & Moore III, B. (2024). The GeoCarb greenhouse gas retrieval algorithm: Simulations and sensitivity to sources of uncertainty. Atmospheric Measurement Techniques, 17(3), 1091–1121. https://doi.org/10.5194/amt-17-1091-2024\nWimberly, M. C., Wanyama, D., Doughty, R., Peiro, H., & Crowell, S. (2024). Increasing fire activity in African tropical forests is associated with deforestation and climate change. Geophysical Research Letters, 51(9), e2023GL106240. https://doi.org/10.1029/2023GL106240"
   },
   {
     "objectID": "publications.html#section-2",
     "href": "publications.html#section-2",
-    "title": "Publications",
-    "section": "2024",
-    "text": "2024\n\nPlaceholder for 2024 publication. Replace this section with actual citations.\n\nYou can use Quarto’s citation support by maintaining a references.bib file and citing with [@crowell2024example] within your pages."
+    "title": "Journal Articles",
+    "section": "2023",
+    "text": "2023\nByrne, B., Baker, D. F., Basu, S., Bertolacci, M., Bowman, K. W., Carroll, D., Chatterjee, A., Chevallier, F., Ciais, P., Cressie, N., et al. (2023). National CO₂ budgets (2015–2020) inferred from atmospheric CO₂ observations in support of the global stocktake. Earth System Science Data, 15, 963–1004. https://doi.org/10.5194/essd-15-963-2023\nCrowell, S., Haist, T., Tscherpel, M., Caron, J., Burgh, E., & Moore III, B. (2023). Performance and polarization response of slit homogenizers for the GeoCarb mission. Atmospheric Measurement Techniques, 16, 195–208. https://doi.org/10.5194/amt-16-195-2023\nKeely, W. R., Mauceri, S., Crowell, S., & O’Dell, C. W. (2023). A nonlinear data-driven approach to bias correction of XCO₂ for NASA’s OCO-2 ACOS version 10. Atmospheric Measurement Techniques, 16(23), 5725–5748. https://doi.org/10.5194/amt-16-5725-2023\nWang, J., Zeng, N., Wang, M., Jiang, F., Chevallier, F., Crowell, S., He, W., Johnson, M. S., Liu, J., Liu, Z., et al. (2023). Anomalous net biome exchange over Amazonian rainforests induced by the 2015/16 El Niño: Soil dryness-shaped spatial pattern but temperature-dominated total flux. Geophysical Research Letters, 50(11), e2023GL103379. https://doi.org/10.1029/2023GL103379\nWang, Q., Crowell, S. M. R., & Pal, S. (2023). Atmospheric variations in summertime column integrated CO₂ on synoptic scales over the US. Journal of Geophysical Research: Atmospheres, 128(6), e2021JD036256. https://doi.org/10.1029/2021JD036256"
   },
   {
     "objectID": "people/members/sean-crowell/index.html",
@@ -236,5 +236,89 @@
     "title": "Environmental Remote Sensing Lab at the University of Rochester",
     "section": "Explore ERSeLab",
     "text": "Explore ERSeLab\n\nResearch — projects, methods, and focus areas\n\nTeam — current members and collaborators\n\nPublications — papers, preprints, and releases\n\nContact — collaboration and prospective students"
+  },
+  {
+    "objectID": "research/index.html#research-themes",
+    "href": "research/index.html#research-themes",
+    "title": "Research",
+    "section": "Research themes",
+    "text": "Research themes\n\n1) Greenhouse-gas remote sensing\nWe improve the retrieval, validation, and interpretation of atmospheric greenhouse-gas observations from satellite and airborne instruments. A major emphasis is bias control, uncertainty quantification, and producing datasets that can be trusted for scientific and decision use.\nTopics include - Trace-gas retrieval theory and practice (CO₂, CH₄ and related products) - Quality control, bias correction, and validation strategies - Cross-sensor consistency and long-term stability\n\n\n2) Retrieval algorithms and machine learning\nWe build physics-informed and machine-learning approaches that map measurements to geophysical quantities while retaining interpretability and uncertainty. We are interested in methods that scale to modern observing systems and enable robust downstream inference.\nTopics include - ML emulators and hybrid (physics + ML) retrieval architectures\n- Uncertainty-aware models, calibration, and out-of-distribution behavior\n- Efficient pipelines for large Earth-observation datasets\n\n\n3) Carbon-cycle variability and feedbacks\nWe use atmospheric observations and models to study how carbon sources and sinks change across seasons and years—especially in regions where climate variability can strongly modulate fluxes. We are particularly interested in the tropics, where climate–ecosystem interactions can drive large interannual variability.\nTopics include - Drivers of interannual variability in carbon fluxes\n- Links between climate anomalies and atmospheric greenhouse-gas signals\n- Evaluation of model–data consistency for carbon-cycle processes\n\n\n4) Inference and attribution\nObservations become most valuable when they can be connected to causes. We use inversion and data-assimilation approaches to infer fluxes, attribute signals to processes/sources, and quantify confidence.\nTopics include - Atmospheric inversions for CO₂ and CH₄ fluxes\n- Attribution of enhancements to specific sources and regions\n- Methods for communicating uncertainty and decision-relevant metrics"
+  },
+  {
+    "objectID": "research/index.html#featured-projects",
+    "href": "research/index.html#featured-projects",
+    "title": "Research",
+    "section": "Featured projects",
+    "text": "Featured projects\n\n\n  \n    \n    Methane Plumes\n    Detecting and characterizing methane point sources from satellite imagery, with robust uncertainty and validation.\n    \n      CH₄\n      Detection\n      Attribution\n    \n  \n\n  \n    \n    Carbon Inversion\n    Constraining carbon fluxes by combining atmospheric observations with transport models and data assimilation.\n    \n      CO₂\n      Inversions\n      Carbon cycle\n    \n  \n\n  \n    \n    Retrieval Algorithms\n    Physics-informed and ML retrieval methods, QA/QC, and uncertainty designed for downstream scientific inference.\n    \n      Retrievals\n      ML\n      Uncertainty"
+  },
+  {
+    "objectID": "research/index.html#collaboration-and-open-science",
+    "href": "research/index.html#collaboration-and-open-science",
+    "title": "Research",
+    "section": "Collaboration and open science",
+    "text": "Collaboration and open science\nWe collaborate widely across academia, agencies, and industry partners. We aim to share our work through publications, open tools, and reproducible workflows whenever possible.\nIf you’re interested in collaborating, data sharing, or joining the lab, please reach out via the Contact page."
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Journal Articles",
+    "section": "2022",
+    "text": "2022\nAlberti, C., Hase, F., Frey, M., Dubravica, D., Blumenstock, T., Dehn, A., Castracane, P., Surawicz, G., Harig, R., Baier, B. C., et al. (2022). Improved calibration procedures for the EM27/SUN spectrometers of the COllaborative Carbon Column Observing Network (COCCON). Atmospheric Measurement Techniques, 15(8), 2433–2463. https://doi.org/10.5194/amt-15-2433-2022\nCui, Y. Y., Zhang, L., Jacobson, A. R., Johnson, M. S., Philip, S., Baker, D., Chevallier, F., Schuh, A. E., Liu, J., Crowell, S., et al. (2022). Evaluating global atmospheric inversions of terrestrial net ecosystem exchange CO₂ over North America on seasonal and sub-continental scales. Geophysical Research Letters, 49(18), e2022GL100147. https://doi.org/10.1029/2022GL100147\nHu, X.-M., Xue, M., Gao, L., & Crowell, S. (2022). Impact of 2019 mid-west flood on CO₂ and CH₄ using yearly WRF-GHG simulations over the contiguous United States. Authorea Preprints. https://doi.org/10.1002/essoar.10512123.1\nPeiro, H., Crowell, S., Schuh, A., Baker, D. F., O’Dell, C., Jacobson, A. R., Chevallier, F., Liu, J., Eldering, A., Crisp, D., et al. (2022). Four years of global carbon cycle observed from the Orbiting Carbon Observatory 2 (OCO-2) version 9 and in situ data and comparison to OCO-2 version 7. Atmospheric Chemistry and Physics, 22(2), 1097–1130. https://doi.org/10.5194/acp-22-1097-2022\nPeiro, H., Crowell, S., & Moore III, B. (2022). Optimizing 4 years of CO₂ biospheric fluxes from OCO-2 and in situ data in TM5: Fire emissions from GFED and inferred from MOPITT CO data. Atmospheric Chemistry and Physics, 22(24), 15817–15849. https://doi.org/10.5194/acp-22-15817-2022\nQin, Y., Xiao, X., Wigneron, J.-P., Ciais, P., Canadell, J. G., Brandt, M., Li, X., Fan, L., Wu, X., Tang, H., et al. (2022). Large loss and rapid recovery of vegetation cover and aboveground biomass over forest areas in Australia during 2019–2020. Remote Sensing of Environment, 278, 113087. https://doi.org/10.1016/j.rse.2022.113087\nSchuh, A. E., Byrne, B., Jacobson, A. R., Crowell, S. M. R., Deng, F., Baker, D. F., Johnson, M. S., Philip, S., & Weir, B. (2022). On the role of atmospheric model transport uncertainty in estimating the Chinese land carbon sink. Nature, 603(7901), E13–E14. https://doi.org/10.1038/s41586-021-04258-9\nZhang, L., Davis, K. J., Schuh, A. E., Jacobson, A. R., Pal, S., Cui, Y. Y., Baker, D., Crowell, S., Chevallier, F., Remaud, M., et al. (2022). Multi-season evaluation of CO₂ weather in OCO-2 MIP models. Journal of Geophysical Research: Atmospheres, 127(2), e2021JD035457. https://doi.org/10.1029/2021JD035457"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Journal Articles",
+    "section": "2021",
+    "text": "2021\nHu, X.-M., Gourdji, S. M., Davis, K. J., Wang, Q., Zhang, Y., Xue, M., Feng, S., Moore, B., & Crowell, S. M. R. (2021). Implementation of improved parameterization of terrestrial flux in WRF-VPRM improves the simulation of nighttime CO₂ peaks and a daytime CO₂ band ahead of a cold front. Journal of Geophysical Research: Atmospheres, 126(10), e2020JD034362. https://doi.org/10.1029/2020JD034362\nHu, X.-M., Hu, J., Gao, L., Cai, C., Jiang, Y., Xue, M., Zhao, T., & Crowell, S. M. R. (2021). Multisensor and multimodel monitoring and investigation of a wintertime air pollution event ahead of a cold front over eastern China. Journal of Geophysical Research: Atmospheres, 126(10), e2020JD033538. https://doi.org/10.1029/2020JD033538\nQin, Y., Xiao, X., Wigneron, J.-P., Ciais, P., Brandt, M., Fan, L., Li, X., Crowell, S., Wu, X., Doughty, R., et al. (2021). Carbon loss from forest degradation exceeds that from deforestation in the Brazilian Amazon. Nature Climate Change, 11(5), 442–448. https://doi.org/10.1038/s41558-021-01026-5\nQin, Y., Xiao, X., Wigneron, J.-P., Ciais, P., Canadell, J. G., Brandt, M., Li, X., Fan, L., Wu, X., Tang, H., et al. (2021). Annual maps of forests in Australia from analyses of microwave and optical images with FAO forest definition. Journal of Remote Sensing, 1, 9870565. https://doi.org/10.34133/2021/9870565\nSomkuti, P., O’Dell, C. W., Crowell, S., Köhler, P., McGarragh, G. R., Cronk, H. Q., & Burgh, E. B. (2021). Solar-induced chlorophyll fluorescence from the Geostationary Carbon Cycle Observatory (GeoCarb): An extensive simulation study. Remote Sensing of Environment, 263, 112565. https://doi.org/10.1016/j.rse.2021.112565"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Journal Articles",
+    "section": "2020",
+    "text": "2020\nHu, X.-M., Crowell, S., Wang, Q., Zhang, Y., Davis, K. J., Xue, M., Xiao, X., Moore, B., Wu, X., Choi, Y., et al. (2020). Dynamical downscaling of CO₂ in 2016 over the contiguous United States using WRF-VPRM, a weather-biosphere-online-coupled model. Journal of Advances in Modeling Earth Systems, 12(4), e2019MS001875. https://doi.org/10.1029/2019MS001875\nLi, X., Hu, X.-M., Cai, C., Jia, Q., Zhang, Y., Liu, J., Xue, M., Xu, J., Wen, R., & Crowell, S. M. R. (2020). Terrestrial CO₂ fluxes, concentrations, sources and budget in Northeast China: Observational and modeling studies. Journal of Geophysical Research: Atmospheres, 125(6), e2019JD031686. https://doi.org/10.1029/2019JD031686"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Journal Articles",
+    "section": "2019",
+    "text": "2019\nCrowell, S., Baker, D., Schuh, A., Basu, S., Jacobson, A. R., Chevallier, F., Liu, J., Deng, F., Feng, L., McKain, K., et al. (2019). The 2015–2016 carbon cycle as seen from OCO-2 and the global in situ network. Atmospheric Chemistry and Physics, 19(15), 9797–9831. https://doi.org/10.5194/acp-19-9797-2019\nKulawik, S. S., Crowell, S., Baker, D., Liu, J., McKain, K., Sweeney, C., Biraud, S. C., Wofsy, S., O’Dell, C. W., Wennberg, P. O., et al. (2019). Characterization of OCO-2 and ACOS-GOSAT biases and errors for CO₂ flux estimates. Atmospheric Measurement Techniques, 12(10), 5223–5262. https://doi.org/10.5194/amt-12-5223-2019\nNivitanont, J., Crowell, S. M. R., & Moore III, B. (2019). A scanning strategy optimized for signal-to-noise ratio for the Geostationary Carbon Cycle Observatory (GeoCarb) instrument. Atmospheric Measurement Techniques, 12(6), 3317–3334. https://doi.org/10.5194/amt-12-3317-2019\nSchuh, A. E., Jacobson, A. R., Basu, S., Weir, B., Baker, D., Bowman, K., Chevallier, F., Crowell, S., Davis, K. J., Deng, F., et al. (2019). Quantifying the impact of atmospheric transport uncertainty on CO₂ surface flux estimates. Global Biogeochemical Cycles, 33(4), 484–500. https://doi.org/10.1029/2018GB006086"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Journal Articles",
+    "section": "2018",
+    "text": "2018\nCrowell, S. M. R., Kawa, S. R., Browell, E. V., Hammerling, D. M., Moore, B., Schaefer, K., & Doney, S. C. (2018). On the ability of space-based passive and active remote sensing observations of CO₂ to detect flux perturbations to the carbon cycle. Journal of Geophysical Research: Atmospheres, 123(2), 1460–1477. https://doi.org/10.1002/2017JD027836\nMoore III, B., Crowell, S. M. R., Rayner, P. J., Kumer, J., O’Dell, C. W., O’Brien, D., Utembe, S., Polonsky, I., Schimel, D., & Lemen, J. (2018). The potential of the Geostationary Carbon Cycle Observatory (GeoCarb) to provide multi-scale constraints on the carbon cycle in the Americas. Frontiers in Environmental Science, 6, 109. https://doi.org/10.3389/fenvs.2018.00109\nO’Dell, C. W., Eldering, A., Wennberg, P. O., Crisp, D., Gunson, M. R., Fisher, B., Frankenberg, C., Kiel, M., Lindqvist, H., Mandrake, L., et al. (2018). Improved retrievals of carbon dioxide from Orbiting Carbon Observatory-2 with the version 8 ACOS algorithm. Atmospheric Measurement Techniques, 11(12), 6539–6576. https://doi.org/10.5194/amt-11-6539-2018\nShi, Z., Crowell, S., Luo, Y., & Moore III, B. (2018). Model structures amplify uncertainty in predicted soil carbon responses to climate change. Nature Communications, 9(1), 2171. https://doi.org/10.1038/s41467-018-04526-9"
+  },
+  {
+    "objectID": "publications.html#section-8",
+    "href": "publications.html#section-8",
+    "title": "Journal Articles",
+    "section": "2016",
+    "text": "2016\nSchimel, D., Sellers, P., Moore III, B., Chatterjee, A., Baker, D., Berry, J., Bowman, K., Ciais, P., Crisp, D., Crowell, S., et al. (2016). Observing the carbon-climate system. arXiv preprint arXiv:1604.02106. https://doi.org/10.48550/arXiv.1604.02106"
+  },
+  {
+    "objectID": "publications.html#section-9",
+    "href": "publications.html#section-9",
+    "title": "Journal Articles",
+    "section": "2015",
+    "text": "2015\nCrowell, S., Rayner, P., Zaccheo, S., & Moore, B. (2015). Impacts of atmospheric state uncertainty on O₂ measurement requirements for the ASCENDS mission. Atmospheric Measurement Techniques, 8(7), 2685–2697. https://doi.org/10.5194/amt-8-2685-2015"
+  },
+  {
+    "objectID": "publications.html#section-10",
+    "href": "publications.html#section-10",
+    "title": "Journal Articles",
+    "section": "2014",
+    "text": "2014\nCrowell, S., White, L., & Wicker, L. (2014). Estimation of near surface wind speeds in strongly rotating flows. Applied Mathematics and Computation, 235, 201–211. https://doi.org/10.1016/j.amc.2014.02.086\nRayner, P. J., Utembe, S. R., & Crowell, S. (2014). Constraining regional greenhouse gas emissions using geostationary concentration measurements: A theoretical study. Atmospheric Measurement Techniques, 7(10), 3285–3293. https://doi.org/10.5194/amt-7-3285-2014"
+  },
+  {
+    "objectID": "publications.html#section-11",
+    "href": "publications.html#section-11",
+    "title": "Journal Articles",
+    "section": "2010",
+    "text": "2010\nCrowell, S., & Lakshmivarahan, S. (2010). Forecast bias correction: A second order method. arXiv preprint arXiv:1011.1508. https://doi.org/10.48550/arXiv.1011.1508"
   }
 ]
