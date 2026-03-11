@@ -43,6 +43,9 @@ format:
     toc: true
     smooth-scroll: true
 
+resources:
+  - analyze_insitu.html
+
 execute:
   freeze: auto
 
