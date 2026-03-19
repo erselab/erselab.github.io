@@ -45,6 +45,7 @@ format:
 
 resources:
   - analyze_insitu.html
+  - toy_retrieval.html
 
 execute:
   freeze: auto
