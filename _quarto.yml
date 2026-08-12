@@ -47,6 +47,7 @@ resources:
   - analyze_insitu.html
   - toy_retrieval.html
   - absorption_forward_model_comparison.html
+  - geocarb_keystone_results.html
 
 execute:
   freeze: auto
